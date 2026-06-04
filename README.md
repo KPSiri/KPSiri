@@ -5,7 +5,7 @@ I am an AI Engineer passionate about going beyond application-level machine lear
 
 ---
 
-### Technical Focus
+#### Technical Focus
 
 I explore **LLM architectures** and **representation-level learning** to understand the *why behind model behavior*, not just performance outcomes.
 
@@ -15,7 +15,7 @@ I explore **LLM architectures** and **representation-level learning** to underst
 
 ---
 
-### Experience
+#### Experience
 
 **MSc Dissertation @ Amazon**  
 - Robust resume classification using knowledge distillation  
@@ -26,7 +26,7 @@ I explore **LLM architectures** and **representation-level learning** to underst
 
 ---
 
-### Tech Stack
+#### Tech Stack
 
 Python | C++ | PyTorch | TensorFlow | Hugging Face | LangChain | LangGraph | AWS Bedrock | FAISS | ChromaDB  
 
