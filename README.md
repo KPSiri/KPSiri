@@ -9,7 +9,7 @@ I am an AI Engineer passionate about going beyond application-level machine lear
 
 I explore **LLM architectures** and **representation-level learning** to understand the *why behind model behavior*, not just performance outcomes.
 
-- Agentic AI & RAG – Building multi-agent and retrieval systems using **LangChain and AWS Bedrock**  
+- Agentic AI & RAG – Building multi-agent and advanced retrieval systems.
 - Model Optimization – Fine-tuning with **LoRA/QLoRA** and applying **Reinforcement Learning** methods for better reasoning  
 - Robustness & Interpretability – Working on **mechanistic interpretability** and **robust representations**  
 
