@@ -28,7 +28,7 @@ I explore **LLM architectures** and **representation-level learning** to underst
 
 #### Tech Stack
 
-Python | C++ | PyTorch | TensorFlow | Hugging Face | LangChain | LangGraph | AWS Bedrock | FAISS | ChromaDB  
+Python | C++ | PyTorch | TensorFlow | Hugging Face | LangChain | LangGraph | AWS Bedrock | FAISS | ChromaDB | RAG | LLM API | SQLite | Azure | GCP | Google AI Studio  
 
 ---
 
